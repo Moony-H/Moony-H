@@ -4,9 +4,9 @@
 i'm a aspiring android developer
 
 
-#### **You can see my study records here:**
+#### 👇 **You can see my study records here!**
 
-<a href="https://talentsingularity.blogspot.com" target="_blank">
+  Link: <a href="https://talentsingularity.blogspot.com" target="_blank">
   <img src="https://img.shields.io/badge/Talent Singularity-FF5722?style=flat-square&logo=Blogger&logoColor=white"/>
 </a>
 <br/>
