@@ -10,15 +10,11 @@ i'm a aspiring android developer
   <img src="https://img.shields.io/badge/Talent Singularity-FF5722?style=flat-square&logo=Blogger&logoColor=white"/>
 </a>
 <br/>
-<br/>
-<br/>
 
 ### Portfolio
 
 [Notion](https://repeated-gambler-f97.notion.site/Hi-I-m-MoonHwi-Han-50ecbeda092e4ebf9b7890ac590bdbf7)
 
-<br/>
-<br/>
 <br/>
 
 ### **My Skills**  
