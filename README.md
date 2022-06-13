@@ -15,8 +15,6 @@ i'm a aspiring android developer
 
 ### Portfolio
 
-<br/>
-
 [Notion](https://repeated-gambler-f97.notion.site/Hi-I-m-MoonHwi-Han-50ecbeda092e4ebf9b7890ac590bdbf7)
 
 <br/>
