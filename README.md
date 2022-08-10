@@ -1,7 +1,7 @@
 ### Hi there, I'm MoonHwi Han!👋
 
 
-i'm a aspiring android developer
+i'm a aspiring mobile developer
 
 
 #### 👇 **You can see my study records here!**
