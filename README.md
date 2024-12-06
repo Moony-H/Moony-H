@@ -28,4 +28,4 @@ i'm a Android developer
 
 <br/>
 
-### 🧑🏻‍💻 **Naver Boost Camp 9기** 2024.06~2024.12
+### 🧑🏻‍💻 **[Naver Boost Camp 9기](https://github.com/boostcampwm-2024)** 2024.06~2024.12
