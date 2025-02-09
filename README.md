@@ -6,14 +6,20 @@ i'm a Android developer
 
 #### 👇 **You can see my study records here!**
 
+<br/>
+
+[Resume](https://moony-portfolio.notion.site/165020e05761805bbb8ac3ad03fc5180?pvs=4)
+
 
 <br/>
 
-[Portflio](https://moony-portfolio.notion.site/165020e05761805bbb8ac3ad03fc5180?pvs=4)
+[Portflio](https://moony-portfolio.notion.site/Hi-I-m-MoonHwi-Han-50ecbeda092e4ebf9b7890ac590bdbf7?pvs=4)
 
 
 
 <br/>
+
+[Blog](https://velog.io/@moony_-/posts)
 
 [Blog](https://talentsingularity.blogspot.com/)
 
