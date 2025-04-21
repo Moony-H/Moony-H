@@ -21,7 +21,6 @@ i'm a Android developer
 
 [Blog](https://velog.io/@moony_-/posts)
 
-[Blog](https://talentsingularity.blogspot.com/)
 
 <br/>
 
